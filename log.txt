@@ -4,3 +4,5 @@ git status : Used for showing modifications done to the repo's files
 git branch : Used for showing all the branches
 git checkout : Used for moving from one branch to other
 git add : Used to add files too the repo
+
+Egg
