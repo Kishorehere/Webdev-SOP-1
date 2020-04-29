@@ -6,3 +6,7 @@ git checkout : Used for moving from one branch to other
 git add : Used to add files too the repo
 
 Egg
+
+I choose egg as the answer to this question,Because, we all know that many species which lays eggs,existed before the evolution of chicken.So eggs has been existing for a long time before chicken evolved
+if the question was 'Which came first chicken or chicken egg', my answer to it would be the chicken, As scientists have discovered that chicken egg shells are made up of proteins which can only be produced by the chicken species.So, In this case the chicken is first
+
