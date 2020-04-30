@@ -1,0 +1,69 @@
+1) fork the common GitHub repo and copy its link
+2) $ cd ~
+    Navigate the working directory to the root directory 
+3) $ cd Desktop/
+    Navigate to the desktop folder
+4) $ mkdir spidertask1
+    Create a folder (directory) named "spidertask1"
+5) $ cd spidertask1/
+    Navigate the current working directory to the "spidertask1" folder
+6) $ git clone https://github.com/Kishorehere/Webdev-SOP-1.git
+    Clone the forked repository and create a copy 
+7) $ cd Webdev-SOP-1/
+    Move to the copied repo folder
+8) $ git branch subramaniyam_ganesh
+    Create a branch "subramaniyam_ganesh" from the master branch
+9) $ git branch branch1
+    Create a branch "branch1" from the master branch
+10) $ git branch branch2
+    Create a branch "branch2" from the master branch
+11) $ git checkout subramaniyam_ganesh
+    Set the current branch as "subramaniyam_ganesh"
+12) $ touch log.txt
+    Create a file "log.txt"
+13) $ open log.txt
+    Open "log.txt" file using the default app
+14) add all the commands used for completing this task
+15) $ git add .
+    Add all the files to the staging area
+16) $ git commit -m "create log.txt in branch subramaniyam_ganesh"
+    Commit all the files in the staging area under branch "subramaniyam_ganesh"
+17) $ checkout branch1
+    Change the current branch to "branch1"
+18) $ touch detail1.txt
+    Create a file "detail1.txt"
+19) $ open detail1.txt
+    Open "detail1.txt" using the default app
+20) add the answer (egg/chicken)
+21) $ git add .
+    Add all the files to the staging area
+22) $ git commit -m "create detail1.txt in branch1"
+     Commit all the files in the staging area under the branch "branch1"
+23) $ git checkout branch2
+     Change the current branch to "branch2"
+24) $ touch detail2.txt
+     Create a file named "detail2.txt"
+25) $ open detail2.txt
+     Open "detail2.txt" using the default app
+26) add the reason for your answer
+27) $ git add .
+     Add all the files to the staging area
+28) $ git commit -m "create detail2.txt in branch2"
+     Commit all the files in the staging area under the branch "branch2"
+29) $ git checkout branch1
+     Change the current branch to "branch1"
+30) $ git merge branch2 
+     Merge the branch "branch2" with the branch "branch1"
+31) $ git checkout subramaniyam_ganesh
+    Change the current branch to "subramaniyam_ganesh"
+32) $ git merge branch1
+     Merge the branch "branch1" with the branch "subramaniyam_ganesh"
+33) $ mv log.txt subramaniyam_ganesh.txt
+     Change the name of the file log.txt to "subramaniyam_ganesh.txt"
+34) $ git checkout master
+     Change the current branch to master 
+35) $ git remote add origin https://github.com/Kishorehere/Webdev-SOP-1.git
+     Add a remote repository 
+36) $ git push origin master -u 
+     Push the changes made in the local repository to the remote repository 
+37) send a pull request
