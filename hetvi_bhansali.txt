@@ -1,0 +1,46 @@
+Task one steps:
+
+1) first fork and clone the repo in the local system.
+  *In git bash:*
+2) git clone <url of repo>: to make a cpoy of the repository in my local system.
+3)git branch:to check which branch we are working on currently. it shows master.
+4)git branch hetvi_bhansali: to create a new branch.
+5)git branch:to check.
+6)git checkout hetvi_bhansali: to switch to the new branch.
+7)git branch:to check.
+  *add a file named log.txt*
+8)git status and git add log.txt:to add and stage the new file added.
+9)git branch answer: to add a new branch called answer.
+10)git branch reason:to add another branch called reason.
+11)git branch : to check whether the new branches are added.
+12)git checkout answer:to switch to the answer branch.
+  *edit log.txt to answer the question*
+13)git checkout reason:to switch to reason branch.
+14)git branch: to check current branch.
+  *edit log.txt to give the answer to the reason*
+15)git status and git add log.txt: to stage the new changes.
+16)git checkout hetvi_bhansali: to switch.
+17)git merge answer:to merge the answer branch
+  *there is a conflict error so we open the log.txt file and remove unnecesary data
+   from the answer branch with the HEAD tag. also remove other characters and write 
+   the content of the anwer file again . save.*
+18)git merge
+19)git merge reason:to merge the reason branch.
+  * resolve the conflict in the same way manually*
+20)git merge
+
+
+Answer to the question: 
+EGG.
+
+Reason:
+It is a fact that all species on earth have been arised from new species.
+In the same way, two different (non-chicken) species must have generated a 
+different kind of egg from which the first ever chicken must have arived on earth.
+The question about what came first still remains controversial, if i had to choose one,
+i will always go for an EGG.
+
+
+
+
+
